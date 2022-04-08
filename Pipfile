@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mediapipe = "*"
+streamlit = "*"
+opencv-python = "*"
+streamlit-webrtc = "*"
+numpy = "*"
+pillow = "*"
+sklearn = "*"
+scikit-learn = "==0.23.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
