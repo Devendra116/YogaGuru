@@ -9,4 +9,9 @@
 - It gives real time accuarcy
 
 ### What all Things to improve :
+-	A user can Upload a pre-recorded Video and get Feedback for the same.
+-	Choose a tutorial video of your own choice and practice.
+-	Increase the accuracy of the model.
+-	Add different yoga poses/exercises.
+
 
