@@ -14,4 +14,10 @@
 -	Increase the accuracy of the model.
 -	Add different yoga poses/exercises.
 
+### Process Flow
+![image](https://user-images.githubusercontent.com/76091413/173896875-3f50c157-1d6b-447b-9f7c-fe2a1e4649a0.png)
+
+### Results Images
+![image](https://user-images.githubusercontent.com/76091413/173897173-5bcff1ed-8bb6-4a24-91d1-e13d2ed05aea.png)
+![image](https://user-images.githubusercontent.com/76091413/173897246-fbd8983c-99da-4eab-a8eb-b3deea794e4c.png)
 
