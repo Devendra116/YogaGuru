@@ -49,6 +49,7 @@ st.sidebar.title('YogaGuru')
 
 app_mode=st.sidebar.selectbox('Select The Pose',['Tree','Mountain','Warrior2'])
 
+# some funny views
 # st.balloons()
 # st.snow()
 # st.success("yessss")
