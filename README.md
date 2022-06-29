@@ -2,6 +2,8 @@
 
 *This project is a simple demonstration of using machine learning ability to produce the accuarcy of yoga practicener based on the body position he/she is performing with respect to the selected yoga pose*
 
+Learn more on YogaGuru on my [Blog](https://medium.com/@chauhandevendra116/yogaguru-part-1-data-collection-cb643bde7ff8)
+
 ### What all feature it provide:
 - Easy setup and implementation
 - Does not require high computational power (as it is based on mediapipe which is very efficient for computation)
